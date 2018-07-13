@@ -1,0 +1,54 @@
+
+form.resultForm {
+    background:#ededed;
+    /*behavior:url(PIE.php);*/
+    border:1px solid #bebebe;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    border-radius:8px;
+    -moz-box-shadow:#666 0 2px 3px;
+    -webkit-box-shadow:#666 0 2px 3px;
+    box-shadow:#666 0 2px 3px;
+    margin:10px 0 10px 80px;
+    padding:6px;
+    position:relative;
+    width:1000px;
+    height: 400px;
+}
+
+form.resultForm fieldset {
+    background:#FCFAFC;
+    /*behavior:url(PIE.php);*/
+    border:1px solid #FCFAFC;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    margin:0;
+    padding:0;
+    position:relative;
+}
+
+.resultHeader{
+    color: #2b669a;
+}
+
+.result-green{
+    color: green;
+}
+
+.result-red{
+    color: red;
+}
+
+.result-yellow{
+    color: gold;
+}
+
+.result-total{
+    color: green;
+}
+
+
+
+
+
